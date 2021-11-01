@@ -1,2 +1,4 @@
-# JavaKnowledgeTree
-Java 知识树
+# Java 知识树
+本项目将以树状结构，讲解 Java 服务端相关知识。
+
+目前为本人总结学习知识所作。
